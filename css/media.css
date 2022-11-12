@@ -1,0 +1,36 @@
+@media (max-width: 575.98px) {
+    .include-section-download{
+        width: 97vw;
+        box-shadow: 0px 0px 0px 0px ;
+    }
+    .download-click{
+        width: 30vw;
+    }
+    .shap-application {
+        display: flex;
+        justify-content: center;
+        width: 45vw;
+    }
+    .details-application{
+        padding-top: 30px;
+    }
+    .img-mobile{
+        width: 48vw;
+    }
+    .box-image{
+        display: flex;
+    justify-content: center;
+    }
+    .application-download{
+       background-color: #fff;
+    }
+    .new-copy{
+        width: 50vw;
+    }
+    .details-title-information{
+        margin-left: 9px;
+    }
+  .img-box{
+    width: 40vw;
+  }
+}
